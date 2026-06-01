@@ -1,0 +1,9 @@
+-- Made by officialzianlol discord.gg/frequency
+
+local fenv = getfenv();
+if not pcall(function(p1, a, b, c)
+
+end) then
+else 
+    getgenv()["0xA91F2C"] = "burrito";
+end;
